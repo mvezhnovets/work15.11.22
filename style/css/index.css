@@ -1,0 +1,97 @@
+ @font-face {
+   font-family: 'Hind Siliguri 500';
+   font-style: normal;
+   font-weight: 500;
+   src: url('./../fonts/hind-siliguri-v12-latin-500.eot'); /* IE9 Compat Modes */
+   src: local(''),
+        url('./../fonts/hind-siliguri-v12-latin-500.eot') format('embedded-opentype'), /* IE6-IE8 */
+        url('./../fonts/hind-siliguri-v12-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+        url('./../fonts/hind-siliguri-v12-latin-500.woff') format('woff'), /* Modern Browsers */
+        url('./../fonts/hind-siliguri-v12-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('./../fonts/hind-siliguri-v12-latin-500.svg') format('svg'); /* Legacy iOS */
+ }
+ @font-face {
+   font-family: 'Hind Siliguri 600';
+   font-style: normal;
+   font-weight: 600;
+   src: url('./../fonts/hind-siliguri-v12-latin-600.eot'); /* IE9 Compat Modes */
+   src: local(''),
+        url('./../fonts/hind-siliguri-v12-latin-600.eot') format('embedded-opentype'), /* IE6-IE8 */
+        url('./../fonts/hind-siliguri-v12-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+        url('./../fonts/hind-siliguri-v12-latin-600.woff') format('woff'), /* Modern Browsers */
+        url('./../fonts/hind-siliguri-v12-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('./../fonts/hind-siliguri-v12-latin-600.svg') format('svg'); /* Legacy iOS */
+ }
+.main_special {
+width: 1600px;
+height: 333px;
+
+}
+
+.main_content_dron {
+width: 553px;
+height: 296px;
+background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+border: 1px solid rgba(0, 0, 0, 0.1);
+margin: 0 0 0 230px;
+box-sizing: border-box;
+display: inline-block;
+
+}
+.main_content_get {
+width: 241px;
+height: 27px;
+font-weight: 500;
+font-size: 16px;
+line-height: 27px;
+color: #F4F9FC;
+opacity: 0.6;
+margin: 0;
+padding: 75px 0px 0px 35px ;
+font-family: 'Hind Siliguri 500';
+text-transform: uppercase;
+}
+.main_content_the {
+width: 258px;
+height: 81px;
+font-weight: 600;
+font-size: 31px;
+color: #F4F9FC;
+margin: 0;
+padding: 5px 271px 0px 35px;
+font-family: 'Hind Siliguri 600';
+}
+.main_content_show {
+width: 76px;
+height: 27px;
+font-weight: 500;
+font-size: 14px;
+line-height: 27px;
+color: #F4F9FC;
+font-family: 'Hind Siliguri 500';
+padding: 7px 0px 74px 35px;
+text-transform: uppercase;
+}
+.main_content_camera {
+width: 553px;
+height: 296px;
+background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+border: 1px solid rgba(0, 0, 0, 0.1);
+margin-left: 30px;
+display: inline-block;
+box-sizing: border-box;
+}
+.img_camera img {
+  width: 238px;
+  height: 151px;
+  margin: -277px 0px 123px 260px;
+}
+.img_dron img {
+width: 275px;
+height: 231px;
+margin: -360px 0px 95px 256px;
+}
+.main_special {
+  color: black;
+
+}
